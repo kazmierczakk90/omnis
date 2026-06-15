@@ -1,0 +1,10 @@
+{
+  "name": "Omnis - Osobisty Agent AI",
+  "description": "Inteligentny agent uczący się w czasie rzeczywistym, działający jako Twoja zewnętrzna pamięć i wsparcie w tle.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
